@@ -137,15 +137,6 @@ L'extension est disponible en **47 langues** grâce au système de localisation 
 
 ---
 
-## 📋 Roadmap (fonctionnalités à venir)
-
-- [ ] **List-Details Extraction** — Extraction nécessitant un clic individuel sur chaque élément
-- [ ] **Save & Re-run** — Sauvegarde et relance de vos extractions favorites
-- [ ] **Scheduling** — Exécution planifiée dans le cloud à intervalles réguliers
-- [ ] **Integrations** — n8n, webhooks, et plus encore
-
----
-
 ## ⚠️ Avertissement
 
 Ce projet est fourni **à des fins éducatives et de recherche uniquement**. L'utilisation de web scraping doit respecter les conditions d'utilisation des sites web ciblés ainsi que les lois en vigueur (RGPD, CCPA, etc.). L'auteur décline toute responsabilité en cas d'utilisation abusive.
